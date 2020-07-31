@@ -9,6 +9,7 @@ If you break down every step and keep a track of what is in each memory register
 ```
 [Anything in here will be looped until the Current Register is = 0]
 . Prints User Input
+, Registers User Input and Saves it to Current Register
 > Moves Up One Register
 < Moves Down One Register
 + Adds 1 to Current Register
