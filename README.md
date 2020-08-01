@@ -12,4 +12,10 @@ This repo hosts all my projects written in Esoteric Languages.
 ### Languages
 
 - [BrainFuck](https://github.com/KodeyThomas/EsotericLanguages/tree/master/BrainFuck)
-    - [helloWorld](https://github.com/KodeyThomas/EsotericLanguages/tree/master/BrainFuck/helloWorld)
+
+### Projects
+
+
+##### BrainFuck
+
+[helloWorld](https://github.com/KodeyThomas/EsotericLanguages/tree/master/BrainFuck/helloWorld)
